@@ -47,6 +47,7 @@
 * [Comment creer du contenu qui cible des sous-mots cles avec le moins de competition possible](http://tao-mmo.com/kgr-guide/)
 * [Pareil, avec d'autres details](https://nichesiteproject.com/keyword-golden-ratio-best-keyword-research-rank-google/)
 * [Anatomie d'une page parfaite d'un point de vue SEO](https://backlinko.com/on-page-seo)
+* [Une introduction a schema et a son implementation](https://www.contentkingapp.com/academy/schema/)
 
 ### Des connaissance plus generales, qui seont toujours utiles 
 * Qq cours pour apprendre les bases de l'html/css:
