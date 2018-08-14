@@ -30,7 +30,7 @@
   * Ajouter une page 404
   * Ajouter une page contact et liu mettre un lien sur la homepage
   * Faire pointer le domaine
-    * Ajouter 3 A records dans les parametres DNS du domaine vers les serveurs IP de Github
+    * Ajouter 3 A records dans les parametres DNS du domaine vers les serveurs IP de Github https://help.github.com/articles/setting-up-an-apex-domain/
     * Rediriger le sous domaine www vers la racine du domaine
 * Link building
   * Ajouter dans un repertoire web un lien vers le site pour qu'il soit index par Google, si possible en nofollow
